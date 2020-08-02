@@ -1,7 +1,6 @@
 ---
 title: "National Weather Service Storm Data Damage Analysis"
 author: "O. Sumin"
-output: html_document
 ---
 
 ### Synopsis
